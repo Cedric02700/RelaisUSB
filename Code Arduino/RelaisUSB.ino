@@ -5,7 +5,7 @@ int index = 0;                  //Index pour mise en forme consigne
 boolean consigneRecue = 0;      //Indique qu'une consigne est en attente de traitement
 
 //********** Declaration des variable pour la gestion des relais*******************************************
-int relaisPin[] = {2, 3, 4, 5, 6, 7, 8, 13};    //Pin ou sont connectés les relais
+int relaisPin[] = {2, 3, 4, 5, 6, 7, 8, 9};    //Pin ou sont connectés les relais
 boolean etR01 = 0;                              //Memorise l'etat des relais
 boolean etR02 = 0;
 boolean etR03 = 0;
