@@ -21,7 +21,7 @@ void setup()  //****************************************************************
   for(int i = 0; i < 8; i++)                  //declaration des pin relais en sortie
   {
     pinMode(relaisPin[i], OUTPUT);
-    digitalWrite(relaisPin, HIGH);
+    digitalWrite(relaisPin[i], HIGH);
   }
 }
 
@@ -54,112 +54,112 @@ void executeConsigne()  //*********** Execute la consigne recue ****************
   if(strcmp(consigne, "r01on") == 0)
   {
     etR01 = 1;
-    digitalWrite(relaisPin[0], HIGH);
+    digitalWrite(relaisPin[0], LOW);
     Serial.print("r01on"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r01of") == 0)
   {
     etR01 = 0;
-    digitalWrite(relaisPin[0], LOW);
+    digitalWrite(relaisPin[0], HIGH);
     Serial.print("r01of"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r02on") == 0)
   {
     etR02 = 1;
-    digitalWrite(relaisPin[1], HIGH);
+    digitalWrite(relaisPin[1], LOW);
     Serial.print("r02on"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r02of") == 0)
   {
     etR02 = 0;
-    digitalWrite(relaisPin[1], LOW);
+    digitalWrite(relaisPin[1], HIGH);
     Serial.print("r02of"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r03on") == 0)
   {
     etR03 = 1;
-    digitalWrite(relaisPin[2], HIGH);
+    digitalWrite(relaisPin[2], LOW);
     Serial.print("r03on"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r03of") == 0)
   {
     etR03 = 0;
-    digitalWrite(relaisPin[2], LOW);
+    digitalWrite(relaisPin[2], HIGH);
     Serial.print("r03of"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r04on") == 0)
   {
     etR04 = 1;
-    digitalWrite(relaisPin[3], HIGH);
+    digitalWrite(relaisPin[3], LOW);
     Serial.print("r04on"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r04of") == 0)
   {
     etR04 = 0;
-    digitalWrite(relaisPin[3], LOW);
+    digitalWrite(relaisPin[3], HIGH);
     Serial.print("r04of"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r05on") == 0)
   {
     etR05 = 1;
-    digitalWrite(relaisPin[4], HIGH);
+    digitalWrite(relaisPin[4], LOW);
     Serial.print("r05on"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r05of") == 0)
   {
     etR05 = 0;
-    digitalWrite(relaisPin[4], LOW);
+    digitalWrite(relaisPin[4], HIGH);
     Serial.print("r05of"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r06on") == 0)
   {
     etR06 = 1;
-    digitalWrite(relaisPin[5], HIGH);
+    digitalWrite(relaisPin[5], LOW);
     Serial.print("r06on"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r06of") == 0)
   {
     etR06 = 0;
-    digitalWrite(relaisPin[5], LOW);
+    digitalWrite(relaisPin[5], HIGH);
     Serial.print("r06of"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r07on") == 0)
   {
     etR07 = 1;
-    digitalWrite(relaisPin[6], HIGH);
+    digitalWrite(relaisPin[6], LOW);
     Serial.print("r07on"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r07of") == 0)
   {
     etR07 = 0;
-    digitalWrite(relaisPin[6], LOW);
+    digitalWrite(relaisPin[6], HIGH);
     Serial.print("r07of"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r08on") == 0)
   {
     etR08 = 1;
-    digitalWrite(relaisPin[7], HIGH);
+    digitalWrite(relaisPin[7], LOW);
     Serial.print("r08on"); 
     consigneRecue = false;
   }
   if(strcmp(consigne, "r08of") == 0)
   {
     etR08 = 0;
-    digitalWrite(relaisPin[7], LOW);
+    digitalWrite(relaisPin[7], HIGH);
     Serial.print("r08of"); 
     consigneRecue = false;
   }
