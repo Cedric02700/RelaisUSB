@@ -25,7 +25,7 @@ Public Class Form1
     End Sub
 
     Private Sub Timer1_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Timer1.Tick
-        If (SerialPort1.IsOpen <> True) Then
+        If (SerialPort1.IsOpen = False) Then
             cbComPort.Items.Clear()
             cbComPort.Text = ""
             comPort = ""
@@ -128,10 +128,12 @@ Public Class Form1
         If (receivedData = "ofR08") Then
             Button8.BackColor = Color.Red
             etR8 = 0
+            GroupBox1.Enabled = True
         End If
         If (receivedData = "onR08") Then
             Button8.BackColor = Color.Lime
             etR8 = 1
+            GroupBox1.Enabled = True
         End If
 
 
@@ -175,7 +177,7 @@ Public Class Form1
                 Timer1.Enabled = True
                 lblStatusCom.Text = "Connecté au: " & comPort
                 cbComPort.Enabled = False
-                GroupBox1.Enabled = True
+                'GroupBox1.Enabled = True
                 btActualiser.Enabled = False
             Else
                 MsgBox("Selectionner un port Comm d'abord.")
@@ -207,13 +209,12 @@ Public Class Form1
     End Function
 
     Function findComPort()
+        cbComPort.Items.Clear()
         For Each sp As String In My.Computer.Ports.SerialPortNames
-            cbComPort.Items.Clear()
             cbComPort.Items.Add(sp)
         Next
         Return ""
     End Function
-
 #End Region
 
 #Region "sauvegarde du nom des boutons"
@@ -361,5 +362,4 @@ Public Class Form1
     End Sub
 
 #End Region
-
 End Class

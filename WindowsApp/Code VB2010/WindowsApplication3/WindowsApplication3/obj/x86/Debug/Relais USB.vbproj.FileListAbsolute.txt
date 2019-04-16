@@ -8,13 +8,23 @@ C:\Users\Cedric\Desktop\VisualBasic\Cours\WindowsApplication3\WindowsApplication
 C:\Users\Cedric\Desktop\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
 C:\Users\Cedric\Desktop\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
 C:\Users\Cedric\Desktop\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
-C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
-C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
-C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
-C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication1.Form1.resources
-C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication1.Form2.resources
-C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication1.Resources.resources
 C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\Relais USB.vbproj.GenerateResource.Cache
-C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
-C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
-C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\bin\Debug\RelaisUSB.exe
+C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\bin\Debug\RelaisUSB.pdb
+C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\bin\Debug\RelaisUSB.xml
+C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.Form1.resources
+C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.Form2.resources
+C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.Resources.resources
+C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.exe
+C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.xml
+C:\Users\Cedric\Desktop\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.pdb
+E:\Cedric\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\bin\Debug\RelaisUSB.exe
+E:\Cedric\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\bin\Debug\RelaisUSB.pdb
+E:\Cedric\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\bin\Debug\RelaisUSB.xml
+E:\Cedric\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.Form1.resources
+E:\Cedric\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.Form2.resources
+E:\Cedric\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.Resources.resources
+E:\Cedric\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\Relais USB.vbproj.GenerateResource.Cache
+E:\Cedric\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.exe
+E:\Cedric\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.xml
+E:\Cedric\Conception\VisualBasic\Cours\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RelaisUSB.pdb
